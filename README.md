@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @KIRITO-01
+- 👋 Hi, I’m @KIRITO
 - 👀 New to Github
 
