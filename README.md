@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @KIRITO
+- 👋 Hi, I’m @KIRITO 
+- 😎 Cool
 - 👀 New to Github
 
 
